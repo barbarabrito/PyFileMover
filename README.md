@@ -28,7 +28,7 @@ Um script que eu fiz em python que procura todos os arquivos .py em uma pasta e 
 ----Aviso----
 
 Este programa está em uma fase muito preliminar. Todos os testes feitos, foram feitos por mim, em um computador rodando Ubuntu/Linux. Entenda que 
-eventuais bugs podem ocorrer e eu não me responsabilizo por quaisquer imprevistos/perda de arquivos, então faça backup dos seus scripts.
+eventuais bugs podem ocorrer e eu não me responsabilizo por quaisquer imprevistos/perda de arquivos, então faça backup dos seus arquivos.
 
 Instruções:
 
