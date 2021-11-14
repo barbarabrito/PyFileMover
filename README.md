@@ -18,7 +18,7 @@ Remember that if you execute this in the same folder of the files you're trying 
 This software is all written in pt-br.
 
 
-======================================================================================================
+=====================================================================================
 
 
 PT/BR
